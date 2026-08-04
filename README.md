@@ -414,37 +414,40 @@ http://localhost:8085
 
 # 📸 Project Screenshots
 
-## Airflow DAG
+## 🌊 Apache Airflow Workflow
 
-```
-docs/images/airflow.png
-```
-
----
-
-## ☁️ Amazon S3 Data Lake
+The ETL pipeline is orchestrated using Apache Airflow.
 
 <p align="center">
-<img src="docs/images/s3_bucket.png" width="90%">
+  <img src="docs/images/airflow dag.png" width="100%">
 </p>
 
-The pipeline automatically uploads analytics-ready Parquet datasets to Amazon S3, providing a cloud-based data lake for downstream analytics and reporting.
+---
+
+## ☁️ AWS S3 Data Lake
+
+Parquet datasets are automatically uploaded to Amazon S3.
+
+<p align="center">
+  <img src="docs/images/s3_bucket.png" width="100%">
+</p>
+---
+
+## 🦆 DuckDB Analytics
+
+DuckDB performs analytical queries directly on Parquet files.
+
+<p align="center">
+  <img src="docs/images/duckdb.png" width="100%">
+</p>
 
 ---
 
-## DuckDB Analytics
+## 🏗 Architecture
 
-```
-docs/images/duckdb.png
-```
-
----
-
-## Architecture
-
-```
-docs/images/architecture.png
-```
+<p align="center">
+  <img src="docs/images/architecture.png" width="100%">
+</p>
 
 ---
 
