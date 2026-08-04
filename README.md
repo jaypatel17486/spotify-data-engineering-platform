@@ -419,7 +419,7 @@ http://localhost:8085
 The ETL pipeline is orchestrated using Apache Airflow.
 
 <p align="center">
-  <img src="docs/images/airflow dag.png" width="100%">
+  <img src="docs/images/airflow.png" width="100%">
 </p>
 
 ---
