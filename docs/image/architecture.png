@@ -1,0 +1,20 @@
+                    Spotify API
+                         │
+                         ▼
+               Python ETL Pipeline
+                         │
+            ┌────────────┴────────────┐
+            ▼                         ▼
+      Raw JSON Files            PostgreSQL
+            │
+            ▼
+        Parquet Files
+            │
+            ▼
+         AWS S3 Bucket
+            │
+            ▼
+      DuckDB Analytics
+            │
+            ▼
+     Apache Airflow DAG

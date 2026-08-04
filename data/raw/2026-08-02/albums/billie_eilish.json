@@ -1,0 +1,235 @@
+{
+    "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH/albums?offset=0&limit=5&include_groups=album,single,compilation,appears_on",
+    "limit": 5,
+    "next": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH/albums?offset=5&limit=5&include_groups=album,single,compilation,appears_on",
+    "offset": 0,
+    "previous": null,
+    "total": 406,
+    "items": [
+        {
+            "album_type": "album",
+            "total_tracks": 10,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+            },
+            "href": "https://api.spotify.com/v1/albums/7aJuG4TFXa2hmE4z1yxc3n",
+            "id": "7aJuG4TFXa2hmE4z1yxc3n",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485171d62ea7ea8a5be92d3c1f62",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "HIT ME HARD AND SOFT",
+            "release_date": "2024-05-17",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:7aJuG4TFXa2hmE4z1yxc3n",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+                    "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+                    "name": "Billie Eilish",
+                    "type": "artist",
+                    "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+                }
+            ]
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 16,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+            },
+            "href": "https://api.spotify.com/v1/albums/0JGOiO34nwfUdDrD612dOp",
+            "id": "0JGOiO34nwfUdDrD612dOp",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e022a038d3bf875d23e4aeaa84e",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048512a038d3bf875d23e4aeaa84e",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Happier Than Ever",
+            "release_date": "2021-07-30",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:0JGOiO34nwfUdDrD612dOp",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+                    "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+                    "name": "Billie Eilish",
+                    "type": "artist",
+                    "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+                }
+            ]
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 14,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+            },
+            "href": "https://api.spotify.com/v1/albums/0S0KGZnfBGSIssfF54WSJh",
+            "id": "0S0KGZnfBGSIssfF54WSJh",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0250a3147b4edd7701a876c6ce",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485150a3147b4edd7701a876c6ce",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+            "release_date": "2019-03-29",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:0S0KGZnfBGSIssfF54WSJh",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+                    "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+                    "name": "Billie Eilish",
+                    "type": "artist",
+                    "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+                }
+            ]
+        },
+        {
+            "album_type": "single",
+            "total_tracks": 1,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3ywiWlRdxCDyIt4xwP4yVW"
+            },
+            "href": "https://api.spotify.com/v1/albums/3ywiWlRdxCDyIt4xwP4yVW",
+            "id": "3ywiWlRdxCDyIt4xwP4yVW",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f04bce737c7b7a6b69726269",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f04bce737c7b7a6b69726269",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851f04bce737c7b7a6b69726269",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "INTRO (HIT ME HARD AND SOFT TOUR)",
+            "release_date": "2026-04-24",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:3ywiWlRdxCDyIt4xwP4yVW",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+                    "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+                    "name": "Billie Eilish",
+                    "type": "artist",
+                    "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+                }
+            ]
+        },
+        {
+            "album_type": "single",
+            "total_tracks": 1,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+            },
+            "href": "https://api.spotify.com/v1/albums/3ThlxfLSy4bfKzxWqmC7VN",
+            "id": "3ThlxfLSy4bfKzxWqmC7VN",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27383730a51081258e1358e9edc",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0283730a51081258e1358e9edc",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485183730a51081258e1358e9edc",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Guess featuring billie eilish",
+            "release_date": "2024-08-01",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:3ThlxfLSy4bfKzxWqmC7VN",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                    "id": "25uiPmTg16RbhZWAqwLBy5",
+                    "name": "Charli xcx",
+                    "type": "artist",
+                    "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+                    "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+                    "name": "Billie Eilish",
+                    "type": "artist",
+                    "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+                }
+            ]
+        }
+    ]
+}

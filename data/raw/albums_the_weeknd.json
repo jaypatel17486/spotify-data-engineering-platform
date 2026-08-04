@@ -1,0 +1,225 @@
+{
+    "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ/albums?offset=0&limit=5&include_groups=album,single,compilation,appears_on",
+    "limit": 5,
+    "next": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ/albums?offset=5&limit=5&include_groups=album,single,compilation,appears_on",
+    "offset": 0,
+    "previous": null,
+    "total": 452,
+    "items": [
+        {
+            "album_type": "album",
+            "total_tracks": 22,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+            },
+            "href": "https://api.spotify.com/v1/albums/3OxfaVgvTxUTy7276t7SPU",
+            "id": "3OxfaVgvTxUTy7276t7SPU",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273de79f330bc297af3fae736da",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02de79f330bc297af3fae736da",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851de79f330bc297af3fae736da",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Hurry Up Tomorrow",
+            "release_date": "2025-01-31",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:3OxfaVgvTxUTy7276t7SPU",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+                    "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+                    "name": "The Weeknd",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+                }
+            ]
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 21,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1"
+            },
+            "href": "https://api.spotify.com/v1/albums/35dut3ICqF3NEDkjxfzJJ1",
+            "id": "35dut3ICqF3NEDkjxfzJJ1",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738ad8f5243d6534e03b656c8b",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e028ad8f5243d6534e03b656c8b",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048518ad8f5243d6534e03b656c8b",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Starboy (Deluxe)",
+            "release_date": "2023-03-14",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:35dut3ICqF3NEDkjxfzJJ1",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+                    "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+                    "name": "The Weeknd",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+                }
+            ]
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 31,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1OARrXe5sB0gyy3MhQ8h92"
+            },
+            "href": "https://api.spotify.com/v1/albums/1OARrXe5sB0gyy3MhQ8h92",
+            "id": "1OARrXe5sB0gyy3MhQ8h92",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273308f9319a3d6f6737f43b3fc",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02308f9319a3d6f6737f43b3fc",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851308f9319a3d6f6737f43b3fc",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Live At SoFi Stadium",
+            "release_date": "2023-03-03",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:1OARrXe5sB0gyy3MhQ8h92",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+                    "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+                    "name": "The Weeknd",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+                }
+            ]
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 24,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/12INlMsFtBjyehNnawBv36"
+            },
+            "href": "https://api.spotify.com/v1/albums/12INlMsFtBjyehNnawBv36",
+            "id": "12INlMsFtBjyehNnawBv36",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ade87e5f9c3764f0a1e5df64",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ade87e5f9c3764f0a1e5df64",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851ade87e5f9c3764f0a1e5df64",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Dawn FM (Alternate World)",
+            "release_date": "2022-01-07",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:12INlMsFtBjyehNnawBv36",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+                    "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+                    "name": "The Weeknd",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+                }
+            ]
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 16,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+            },
+            "href": "https://api.spotify.com/v1/albums/2nLOHgzXzwFEpl62zAgCEC",
+            "id": "2nLOHgzXzwFEpl62zAgCEC",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e024ab2520c2c77a1d66b9ee21d",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048514ab2520c2c77a1d66b9ee21d",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Dawn FM",
+            "release_date": "2022-01-06",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:2nLOHgzXzwFEpl62zAgCEC",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+                    "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+                    "name": "The Weeknd",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+                }
+            ]
+        }
+    ]
+}

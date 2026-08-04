@@ -1,0 +1,27 @@
+{
+    "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+    },
+    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+    "images": [
+        {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb766397ec42a573a53eb5fb87",
+            "height": 640,
+            "width": 640
+        },
+        {
+            "url": "https://i.scdn.co/image/ab67616100005174766397ec42a573a53eb5fb87",
+            "height": 320,
+            "width": 320
+        },
+        {
+            "url": "https://i.scdn.co/image/ab6761610000f178766397ec42a573a53eb5fb87",
+            "height": 160,
+            "width": 160
+        }
+    ],
+    "name": "Ariana Grande",
+    "type": "artist",
+    "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+}

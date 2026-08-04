@@ -1,0 +1,225 @@
+{
+    "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q/albums?offset=0&limit=5&include_groups=album,single,compilation,appears_on",
+    "limit": 5,
+    "next": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q/albums?offset=5&limit=5&include_groups=album,single,compilation,appears_on",
+    "offset": 0,
+    "previous": null,
+    "total": 939,
+    "items": [
+        {
+            "album_type": "album",
+            "total_tracks": 14,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5IBigZKJt8uffeMjKw5uEl"
+            },
+            "href": "https://api.spotify.com/v1/albums/5IBigZKJt8uffeMjKw5uEl",
+            "id": "5IBigZKJt8uffeMjKw5uEl",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27324225f56ed789d55e998a07a",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0224225f56ed789d55e998a07a",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485124225f56ed789d55e998a07a",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Reflections (From The Vault Of Smoke + Mirrors)",
+            "release_date": "2025-02-21",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:5IBigZKJt8uffeMjKw5uEl",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                    "id": "53XhwfbYqKCa1cC15pYq2q",
+                    "name": "Imagine Dragons",
+                    "type": "artist",
+                    "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+                }
+            ]
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 10,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
+            },
+            "href": "https://api.spotify.com/v1/albums/7EPrkhjTBrwAV8yAKCmY0Y",
+            "id": "7EPrkhjTBrwAV8yAKCmY0Y",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737eeb115b73e2e6abc3c66d59",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e027eeb115b73e2e6abc3c66d59",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048517eeb115b73e2e6abc3c66d59",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "LOOM",
+            "release_date": "2024-06-28",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:7EPrkhjTBrwAV8yAKCmY0Y",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                    "id": "53XhwfbYqKCa1cC15pYq2q",
+                    "name": "Imagine Dragons",
+                    "type": "artist",
+                    "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+                }
+            ]
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 23,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0fQaGkCbRIg5z7ta2SCrY0"
+            },
+            "href": "https://api.spotify.com/v1/albums/0fQaGkCbRIg5z7ta2SCrY0",
+            "id": "0fQaGkCbRIg5z7ta2SCrY0",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273de6d776a57b267164a9f358b",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02de6d776a57b267164a9f358b",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851de6d776a57b267164a9f358b",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Imagine Dragons Live in Vegas",
+            "release_date": "2023-07-28",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:0fQaGkCbRIg5z7ta2SCrY0",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                    "id": "53XhwfbYqKCa1cC15pYq2q",
+                    "name": "Imagine Dragons",
+                    "type": "artist",
+                    "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+                }
+            ]
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 54,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0LLA5YL3g2UReWlP7nWqGh"
+            },
+            "href": "https://api.spotify.com/v1/albums/0LLA5YL3g2UReWlP7nWqGh",
+            "id": "0LLA5YL3g2UReWlP7nWqGh",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27381eeace38068e9444cb28a3e",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0281eeace38068e9444cb28a3e",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485181eeace38068e9444cb28a3e",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Night Visions (Expanded Edition / Super Deluxe)",
+            "release_date": "2022-09-09",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:0LLA5YL3g2UReWlP7nWqGh",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                    "id": "53XhwfbYqKCa1cC15pYq2q",
+                    "name": "Imagine Dragons",
+                    "type": "artist",
+                    "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+                }
+            ]
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 32,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+            },
+            "href": "https://api.spotify.com/v1/albums/6yiXkzHvC0OTmhfDQOEWtS",
+            "id": "6yiXkzHvC0OTmhfDQOEWtS",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02fc915b69600dce2991a61f13",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851fc915b69600dce2991a61f13",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Mercury - Acts 1 & 2",
+            "release_date": "2022-07-01",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:6yiXkzHvC0OTmhfDQOEWtS",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                    "id": "53XhwfbYqKCa1cC15pYq2q",
+                    "name": "Imagine Dragons",
+                    "type": "artist",
+                    "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+                }
+            ]
+        }
+    ]
+}
