@@ -1,0 +1,225 @@
+{
+    "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we/albums?offset=0&limit=5&include_groups=album,single,compilation,appears_on",
+    "limit": 5,
+    "next": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we/albums?offset=5&limit=5&include_groups=album,single,compilation,appears_on",
+    "offset": 0,
+    "previous": null,
+    "total": 1543,
+    "items": [
+        {
+            "album_type": "album",
+            "total_tracks": 42,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6NC5rf0j1JcmXhKNlZqWkr"
+            },
+            "href": "https://api.spotify.com/v1/albums/6NC5rf0j1JcmXhKNlZqWkr",
+            "id": "6NC5rf0j1JcmXhKNlZqWkr",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736f2228fa7f3d5e012fd5ec1f",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e026f2228fa7f3d5e012fd5ec1f",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048516f2228fa7f3d5e012fd5ec1f",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Dua Lipa - Live From Mexico",
+            "release_date": "2026-05-22",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:6NC5rf0j1JcmXhKNlZqWkr",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+                    "id": "6M2wZ9GZgrQXHCFfjv46we",
+                    "name": "Dua Lipa",
+                    "type": "artist",
+                    "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+                }
+            ]
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 20,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2zSqnTr0gSXrSlPbHzLfJS"
+            },
+            "href": "https://api.spotify.com/v1/albums/2zSqnTr0gSXrSlPbHzLfJS",
+            "id": "2zSqnTr0gSXrSlPbHzLfJS",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27387bcc972503c59ab023130b4",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0287bcc972503c59ab023130b4",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485187bcc972503c59ab023130b4",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Dua Lipa - Live from the Royal Albert Hall",
+            "release_date": "2024-12-06",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:2zSqnTr0gSXrSlPbHzLfJS",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+                    "id": "6M2wZ9GZgrQXHCFfjv46we",
+                    "name": "Dua Lipa",
+                    "type": "artist",
+                    "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+                }
+            ]
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 11,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0XY0qeZ7czMgtb340QJRxK"
+            },
+            "href": "https://api.spotify.com/v1/albums/0XY0qeZ7czMgtb340QJRxK",
+            "id": "0XY0qeZ7czMgtb340QJRxK",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d3befc329815cac08b103fd7",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d3befc329815cac08b103fd7",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851d3befc329815cac08b103fd7",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Radical Optimism (Extended Versions)",
+            "release_date": "2024-06-28",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:0XY0qeZ7czMgtb340QJRxK",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+                    "id": "6M2wZ9GZgrQXHCFfjv46we",
+                    "name": "Dua Lipa",
+                    "type": "artist",
+                    "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+                }
+            ]
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 11,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+            },
+            "href": "https://api.spotify.com/v1/albums/1Mo92916G2mmG7ajpmSVrc",
+            "id": "1Mo92916G2mmG7ajpmSVrc",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732f8790ed72296c2614607575",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e022f8790ed72296c2614607575",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d000048512f8790ed72296c2614607575",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Radical Optimism",
+            "release_date": "2024-05-03",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:1Mo92916G2mmG7ajpmSVrc",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+                    "id": "6M2wZ9GZgrQXHCFfjv46we",
+                    "name": "Dua Lipa",
+                    "type": "artist",
+                    "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+                }
+            ]
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 19,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0E3wRkztEF32ZdYICXBuBf"
+            },
+            "href": "https://api.spotify.com/v1/albums/0E3wRkztEF32ZdYICXBuBf",
+            "id": "0E3wRkztEF32ZdYICXBuBf",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27333ac2a60c977ace7748eeb16",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0233ac2a60c977ace7748eeb16",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000485133ac2a60c977ace7748eeb16",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "Future Nostalgia (The Moonlight Edition)",
+            "release_date": "2021-02-11",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:0E3wRkztEF32ZdYICXBuBf",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+                    "id": "6M2wZ9GZgrQXHCFfjv46we",
+                    "name": "Dua Lipa",
+                    "type": "artist",
+                    "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+                }
+            ]
+        }
+    ]
+}

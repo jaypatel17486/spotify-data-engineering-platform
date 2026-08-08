@@ -30,6 +30,21 @@ def main():
             f"{artist_name.replace(' ', '_').lower()}.json",
         )
 
+        # NEW: Download tracks for every album
+        for album in albums["items"]:
+
+            print(f"   Downloading tracks for {album['name']}")
+
+            tracks = spotify.get_album_tracks(
+                album["id"]
+            )
+
+            save_json(
+                tracks,
+                "tracks",
+                f"{album['id']}.json",
+            )
+
     print("\n✅ Extraction completed successfully.")
 
 

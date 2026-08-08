@@ -1,0 +1,438 @@
+{
+    "href": "https://api.spotify.com/v1/albums/71yBvOeRZ9os9LYFEy9eOk/tracks?offset=0&limit=20",
+    "items": [
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 203746,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0O6lm9N6qJclxNFHl51nkr"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0O6lm9N6qJclxNFHl51nkr",
+            "id": "0O6lm9N6qJclxNFHl51nkr",
+            "name": "Hoe Phase",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:0O6lm9N6qJclxNFHl51nkr",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 243232,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6p0Ai6wRjz9CmjqkhoKOwf"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6p0Ai6wRjz9CmjqkhoKOwf",
+            "id": "6p0Ai6wRjz9CmjqkhoKOwf",
+            "name": "Road Trips",
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:6p0Ai6wRjz9CmjqkhoKOwf",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5M4V7RDb1KJHbuHLn1XEh0",
+                    "id": "5M4V7RDb1KJHbuHLn1XEh0",
+                    "name": "Stunna Sandy",
+                    "type": "artist",
+                    "uri": "spotify:artist:5M4V7RDb1KJHbuHLn1XEh0"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 190578,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0EsJdOSOrBfTo816lWRW4Q"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0EsJdOSOrBfTo816lWRW4Q",
+            "id": "0EsJdOSOrBfTo816lWRW4Q",
+            "name": "Outside Tweaking (feat. Stunna Sandy)",
+            "track_number": 3,
+            "type": "track",
+            "uri": "spotify:track:0EsJdOSOrBfTo816lWRW4Q",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3DbwFQlvLxRSi2uX8mf81A",
+                    "id": "3DbwFQlvLxRSi2uX8mf81A",
+                    "name": "Sexyy Red",
+                    "type": "artist",
+                    "uri": "spotify:artist:3DbwFQlvLxRSi2uX8mf81A"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 202466,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1AFW3QBDjBmb4EL9gyiYhe"
+            },
+            "href": "https://api.spotify.com/v1/tracks/1AFW3QBDjBmb4EL9gyiYhe",
+            "id": "1AFW3QBDjBmb4EL9gyiYhe",
+            "name": "Cheetah Print (feat. Sexyy Red)",
+            "track_number": 4,
+            "type": "track",
+            "uri": "spotify:track:1AFW3QBDjBmb4EL9gyiYhe",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5H4yInM5zmHqpKIoMNAx4r",
+                    "id": "5H4yInM5zmHqpKIoMNAx4r",
+                    "name": "Central Cee",
+                    "type": "artist",
+                    "uri": "spotify:artist:5H4yInM5zmHqpKIoMNAx4r"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 169134,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4qLHbbVJjNsOqWxHrTtvgx"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4qLHbbVJjNsOqWxHrTtvgx",
+            "id": "4qLHbbVJjNsOqWxHrTtvgx",
+            "name": "Which One (feat. Central Cee)",
+            "track_number": 5,
+            "type": "track",
+            "uri": "spotify:track:4qLHbbVJjNsOqWxHrTtvgx",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/62DmErcU7dqZbJaDqwsqzR",
+                    "id": "62DmErcU7dqZbJaDqwsqzR",
+                    "name": "Popcaan",
+                    "type": "artist",
+                    "uri": "spotify:artist:62DmErcU7dqZbJaDqwsqzR"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 176393,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6hFjD546JTuTsUS6GawtVF"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6hFjD546JTuTsUS6GawtVF",
+            "id": "6hFjD546JTuTsUS6GawtVF",
+            "name": "Amazing Shape (feat. Popcaan)",
+            "track_number": 6,
+            "type": "track",
+            "uri": "spotify:track:6hFjD546JTuTsUS6GawtVF",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 211859,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4gIzhWC1f98N3NtNlyPfY5"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4gIzhWC1f98N3NtNlyPfY5",
+            "id": "4gIzhWC1f98N3NtNlyPfY5",
+            "name": "BBW",
+            "track_number": 7,
+            "type": "track",
+            "uri": "spotify:track:4gIzhWC1f98N3NtNlyPfY5",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2rs4EKIuoLOqrH89wLZ2mC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2rs4EKIuoLOqrH89wLZ2mC",
+                    "id": "2rs4EKIuoLOqrH89wLZ2mC",
+                    "name": "Iconic Savvy",
+                    "type": "artist",
+                    "uri": "spotify:artist:2rs4EKIuoLOqrH89wLZ2mC"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 148855,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5njYiWKlMfU1HkOyetTRg8"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5njYiWKlMfU1HkOyetTRg8",
+            "id": "5njYiWKlMfU1HkOyetTRg8",
+            "name": "True Bestie (feat. Iconic Savvy)",
+            "track_number": 8,
+            "type": "track",
+            "uri": "spotify:track:5njYiWKlMfU1HkOyetTRg8",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 52010,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3WjmqBYVBac2PNZyGaiZnP"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3WjmqBYVBac2PNZyGaiZnP",
+            "id": "3WjmqBYVBac2PNZyGaiZnP",
+            "name": "Where\u2019s Your Stuff Interlude",
+            "track_number": 9,
+            "type": "track",
+            "uri": "spotify:track:3WjmqBYVBac2PNZyGaiZnP",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 259864,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5dYyoRxPWVaV36XSD49yGS"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5dYyoRxPWVaV36XSD49yGS",
+            "id": "5dYyoRxPWVaV36XSD49yGS",
+            "name": "New Bestie",
+            "track_number": 10,
+            "type": "track",
+            "uri": "spotify:track:5dYyoRxPWVaV36XSD49yGS",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 223255,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7ppIKUHCFQGCQny1Se2jLV"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7ppIKUHCFQGCQny1Se2jLV",
+            "id": "7ppIKUHCFQGCQny1Se2jLV",
+            "name": "Q&A",
+            "track_number": 11,
+            "type": "track",
+            "uri": "spotify:track:7ppIKUHCFQGCQny1Se2jLV",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 177137,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/02nXNKtNtO04TwnJpQrEWN"
+            },
+            "href": "https://api.spotify.com/v1/tracks/02nXNKtNtO04TwnJpQrEWN",
+            "id": "02nXNKtNtO04TwnJpQrEWN",
+            "name": "Stuck",
+            "track_number": 12,
+            "type": "track",
+            "uri": "spotify:track:02nXNKtNtO04TwnJpQrEWN",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 263715,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/25vFrwbvXqZpzu03R5Lzjq"
+            },
+            "href": "https://api.spotify.com/v1/tracks/25vFrwbvXqZpzu03R5Lzjq",
+            "id": "25vFrwbvXqZpzu03R5Lzjq",
+            "name": "Goose and The Juice",
+            "track_number": 13,
+            "type": "track",
+            "uri": "spotify:track:25vFrwbvXqZpzu03R5Lzjq",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 193748,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/2OrkG4TIWdm5ZhBwpbr3o0"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2OrkG4TIWdm5ZhBwpbr3o0",
+            "id": "2OrkG4TIWdm5ZhBwpbr3o0",
+            "name": "Princess",
+            "track_number": 14,
+            "type": "track",
+            "uri": "spotify:track:2OrkG4TIWdm5ZhBwpbr3o0",
+            "is_local": false
+        }
+    ],
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 14
+}

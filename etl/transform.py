@@ -3,7 +3,6 @@ from pathlib import Path
 
 import pandas as pd
 
-
 RAW_PATH = Path("data/raw")
 PROCESSED_PATH = Path("data/processed")
 
@@ -16,6 +15,7 @@ def main():
     )
 
     album_records = []
+    artist_records = []
 
     album_files = RAW_PATH.rglob("albums/*.json")
 
@@ -31,34 +31,61 @@ def main():
 
         for album in albums["items"]:
 
-            album_records.append({
+            # First artist on the album
+            artist = album["artists"][0]
 
-                "album_id": album["id"],
+            artist_records.append(
+                {
+                    "artist_id": artist["id"],
+                    "artist_name": artist["name"],
+                    "spotify_url": artist["external_urls"]["spotify"],
+                }
+            )
 
-                "album_name": album["name"],
+            album_records.append(
+                {
+                    "album_id": album["id"],
+                    "artist_id": artist["id"],
+                    "album_name": album["name"],
+                    "album_type": album["album_type"],
+                    "release_date": album["release_date"],
+                    "total_tracks": album["total_tracks"],
+                    "spotify_url": album["external_urls"]["spotify"],
+                }
+            )
 
-                "album_type": album["album_type"],
+    albums_df = pd.DataFrame(album_records)
 
-                "release_date": album["release_date"],
+    artists_df = (
+        pd.DataFrame(artist_records)
+        .drop_duplicates(subset=["artist_id"])
+        .reset_index(drop=True)
+    )
 
-                "total_tracks": album["total_tracks"],
+    albums_df.to_csv(
+        PROCESSED_PATH / "albums.csv",
+        index=False,
+    )
 
-                "spotify_url": album["external_urls"]["spotify"]
-
-            })
-
-    df = pd.DataFrame(album_records)
-
-    output = PROCESSED_PATH / "albums.csv"
-
-    df.to_csv(
-        output,
+    artists_df.to_csv(
+        PROCESSED_PATH / "artists.csv",
         index=False,
     )
 
     print("=" * 60)
     print("Transformation completed")
-    print(df.head())
+    print("=" * 60)
+
+    print("\nAlbums")
+    print(albums_df.head())
+
+    print("\nArtists")
+    print(artists_df.head())
+
+    print("\nFiles Created")
+    print("- albums.csv")
+    print("- artists.csv")
+
     print("=" * 60)
 
 

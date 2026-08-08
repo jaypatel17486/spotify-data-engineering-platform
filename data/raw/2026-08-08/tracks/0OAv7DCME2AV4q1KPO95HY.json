@@ -1,0 +1,526 @@
+{
+    "href": "https://api.spotify.com/v1/albums/0OAv7DCME2AV4q1KPO95HY/tracks?offset=0&limit=20",
+    "items": [
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 307681,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF"
+            },
+            "href": "https://api.spotify.com/v1/tracks/55wlsNYqcfiQsHuX8l0jmF",
+            "id": "55wlsNYqcfiQsHuX8l0jmF",
+            "name": "Make Them Cry",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:55wlsNYqcfiQsHuX8l0jmF",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 189217,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4eE16RJFDKf2WxBTqqfylu",
+            "id": "4eE16RJFDKf2WxBTqqfylu",
+            "name": "Dust",
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:4eE16RJFDKf2WxBTqqfylu",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 222580,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7KGHenqXZofXNm5MKDbT3J",
+            "id": "7KGHenqXZofXNm5MKDbT3J",
+            "name": "Whisper My Name",
+            "track_number": 3,
+            "type": "track",
+            "uri": "spotify:track:7KGHenqXZofXNm5MKDbT3J",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 237344,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
+            },
+            "href": "https://api.spotify.com/v1/tracks/514joG57v4yKTsfQmz7stz",
+            "id": "514joG57v4yKTsfQmz7stz",
+            "name": "Janice STFU",
+            "track_number": 4,
+            "type": "track",
+            "uri": "spotify:track:514joG57v4yKTsfQmz7stz",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+                    "id": "1RyvyyTE3xzB2ZywiAwp0i",
+                    "name": "Future",
+                    "type": "artist",
+                    "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1zEHBw7xQf0drXZagRkciU",
+                    "id": "1zEHBw7xQf0drXZagRkciU",
+                    "name": "Molly Santana",
+                    "type": "artist",
+                    "uri": "spotify:artist:1zEHBw7xQf0drXZagRkciU"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 247183,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3DK90400cDlV5WUJPraMph",
+            "id": "3DK90400cDlV5WUJPraMph",
+            "name": "Ran To Atlanta (feat. Future & Molly Santana)",
+            "track_number": 5,
+            "type": "track",
+            "uri": "spotify:track:3DK90400cDlV5WUJPraMph",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 188722,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6vjpQIdABqntoe3zPazPec",
+            "id": "6vjpQIdABqntoe3zPazPec",
+            "name": "Shabang",
+            "track_number": 6,
+            "type": "track",
+            "uri": "spotify:track:6vjpQIdABqntoe3zPazPec",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 301950,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/57rkFdhoKjgkg16fsS4pgg"
+            },
+            "href": "https://api.spotify.com/v1/tracks/57rkFdhoKjgkg16fsS4pgg",
+            "id": "57rkFdhoKjgkg16fsS4pgg",
+            "name": "Make Them Pay",
+            "track_number": 7,
+            "type": "track",
+            "uri": "spotify:track:57rkFdhoKjgkg16fsS4pgg",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 225990,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1ijYk2EYwj0rGqYwtjiAUJ"
+            },
+            "href": "https://api.spotify.com/v1/tracks/1ijYk2EYwj0rGqYwtjiAUJ",
+            "id": "1ijYk2EYwj0rGqYwtjiAUJ",
+            "name": "Burning Bridges",
+            "track_number": 8,
+            "type": "track",
+            "uri": "spotify:track:1ijYk2EYwj0rGqYwtjiAUJ",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 200830,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
+            },
+            "href": "https://api.spotify.com/v1/tracks/393OFJFZKIIv66JmJcNm9D",
+            "id": "393OFJFZKIIv66JmJcNm9D",
+            "name": "National Treasures",
+            "track_number": 9,
+            "type": "track",
+            "uri": "spotify:track:393OFJFZKIIv66JmJcNm9D",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+                    "id": "1URnnhqYAYcrqrcwql10ft",
+                    "name": "21 Savage",
+                    "type": "artist",
+                    "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 137647,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4ygJHbpMGwZknVFaRikdFr"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4ygJHbpMGwZknVFaRikdFr",
+            "id": "4ygJHbpMGwZknVFaRikdFr",
+            "name": "B's On The Table (feat. 21 Savage)",
+            "track_number": 10,
+            "type": "track",
+            "uri": "spotify:track:4ygJHbpMGwZknVFaRikdFr",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 194324,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7oDbkGSI3IRzKmhrTiQdID",
+            "id": "7oDbkGSI3IRzKmhrTiQdID",
+            "name": "What Did I Miss?",
+            "track_number": 11,
+            "type": "track",
+            "uri": "spotify:track:7oDbkGSI3IRzKmhrTiQdID",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 195678,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3cLCA9LSb6UiOeNvTZoaav"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3cLCA9LSb6UiOeNvTZoaav",
+            "id": "3cLCA9LSb6UiOeNvTZoaav",
+            "name": "Plot Twist",
+            "track_number": 12,
+            "type": "track",
+            "uri": "spotify:track:3cLCA9LSb6UiOeNvTZoaav",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 183500,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7COiiObIVJIdBcW3J43Iy2",
+            "id": "7COiiObIVJIdBcW3J43Iy2",
+            "name": "2 Hard 4 The Radio",
+            "track_number": 13,
+            "type": "track",
+            "uri": "spotify:track:7COiiObIVJIdBcW3J43Iy2",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 323712,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/73ycOMnODtUc2Ggj6EfCpO"
+            },
+            "href": "https://api.spotify.com/v1/tracks/73ycOMnODtUc2Ggj6EfCpO",
+            "id": "73ycOMnODtUc2Ggj6EfCpO",
+            "name": "Make Them Remember",
+            "track_number": 14,
+            "type": "track",
+            "uri": "spotify:track:73ycOMnODtUc2Ggj6EfCpO",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 176541,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/2XcmjSdYqdhFjyWFdbnBaY"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2XcmjSdYqdhFjyWFdbnBaY",
+            "id": "2XcmjSdYqdhFjyWFdbnBaY",
+            "name": "Little Birdie",
+            "track_number": 15,
+            "type": "track",
+            "uri": "spotify:track:2XcmjSdYqdhFjyWFdbnBaY",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 246417,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6cYGpGmnMeK9qWhRpaZOZ5"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6cYGpGmnMeK9qWhRpaZOZ5",
+            "id": "6cYGpGmnMeK9qWhRpaZOZ5",
+            "name": "Don\u2019t Worry",
+            "track_number": 16,
+            "type": "track",
+            "uri": "spotify:track:6cYGpGmnMeK9qWhRpaZOZ5",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 302391,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3rssNOLucK9fzsRcKonhYu"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3rssNOLucK9fzsRcKonhYu",
+            "id": "3rssNOLucK9fzsRcKonhYu",
+            "name": "Firm Friends",
+            "track_number": 17,
+            "type": "track",
+            "uri": "spotify:track:3rssNOLucK9fzsRcKonhYu",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 248285,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1xO3PpGchMqMmmF6OEtH5Y"
+            },
+            "href": "https://api.spotify.com/v1/tracks/1xO3PpGchMqMmmF6OEtH5Y",
+            "id": "1xO3PpGchMqMmmF6OEtH5Y",
+            "name": "Make Them Know",
+            "track_number": 18,
+            "type": "track",
+            "uri": "spotify:track:1xO3PpGchMqMmmF6OEtH5Y",
+            "is_local": false
+        }
+    ],
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 18
+}

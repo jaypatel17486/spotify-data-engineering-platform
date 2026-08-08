@@ -1,0 +1,660 @@
+{
+    "href": "https://api.spotify.com/v1/albums/1PdMoahMiMnqWfzWZs3xSI/tracks?offset=0&limit=20",
+    "items": [
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+                    "id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "name": "Coldplay",
+                    "type": "artist",
+                    "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7yxi31szvlbwvKq9dYOmFI",
+                    "id": "7yxi31szvlbwvKq9dYOmFI",
+                    "name": "Jon Hopkins",
+                    "type": "artist",
+                    "uri": "spotify:artist:7yxi31szvlbwvKq9dYOmFI"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 276476,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4mEWgqYOEiygF1mzEn901R"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4mEWgqYOEiygF1mzEn901R",
+            "id": "4mEWgqYOEiygF1mzEn901R",
+            "name": "MOON MUSiC",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:4mEWgqYOEiygF1mzEn901R",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+                    "id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "name": "Coldplay",
+                    "type": "artist",
+                    "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 236230,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5VSqvL5NLxBr7uMNfjwLt8"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5VSqvL5NLxBr7uMNfjwLt8",
+            "id": "5VSqvL5NLxBr7uMNfjwLt8",
+            "name": "feelslikeimfallinginlove",
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:5VSqvL5NLxBr7uMNfjwLt8",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+                    "id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "name": "Coldplay",
+                    "type": "artist",
+                    "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6eXZu6O7nAUA5z6vLV8NKI",
+                    "id": "6eXZu6O7nAUA5z6vLV8NKI",
+                    "name": "Little Simz",
+                    "type": "artist",
+                    "uri": "spotify:artist:6eXZu6O7nAUA5z6vLV8NKI"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3wcj11K77LjEY1PkEazffa",
+                    "id": "3wcj11K77LjEY1PkEazffa",
+                    "name": "Burna Boy",
+                    "type": "artist",
+                    "uri": "spotify:artist:3wcj11K77LjEY1PkEazffa"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0jIWKlfmD4Ew7HeVVrq03g",
+                    "id": "0jIWKlfmD4Ew7HeVVrq03g",
+                    "name": "Elyanna",
+                    "type": "artist",
+                    "uri": "spotify:artist:0jIWKlfmD4Ew7HeVVrq03g"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7vXDAI8JwjW531ouMGbfcp",
+                    "id": "7vXDAI8JwjW531ouMGbfcp",
+                    "name": "TINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7vXDAI8JwjW531ouMGbfcp"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 233406,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6xX6zmaXeKzB4u9TiM1XgU"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6xX6zmaXeKzB4u9TiM1XgU",
+            "id": "6xX6zmaXeKzB4u9TiM1XgU",
+            "name": "WE PRAY",
+            "track_number": 3,
+            "type": "track",
+            "uri": "spotify:track:6xX6zmaXeKzB4u9TiM1XgU",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+                    "id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "name": "Coldplay",
+                    "type": "artist",
+                    "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 240508,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3Bc8H4AiPnI8yECFhs6Y3O"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3Bc8H4AiPnI8yECFhs6Y3O",
+            "id": "3Bc8H4AiPnI8yECFhs6Y3O",
+            "name": "JUPiTER",
+            "track_number": 4,
+            "type": "track",
+            "uri": "spotify:track:3Bc8H4AiPnI8yECFhs6Y3O",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+                    "id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "name": "Coldplay",
+                    "type": "artist",
+                    "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3ZpEKRjHaHANcpk10u6Ntq",
+                    "id": "3ZpEKRjHaHANcpk10u6Ntq",
+                    "name": "Ayra Starr",
+                    "type": "artist",
+                    "uri": "spotify:artist:3ZpEKRjHaHANcpk10u6Ntq"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 217380,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4nmIcNQjEGez4zeJfm5I1F"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4nmIcNQjEGez4zeJfm5I1F",
+            "id": "4nmIcNQjEGez4zeJfm5I1F",
+            "name": "GOOD FEELiNGS",
+            "track_number": 5,
+            "type": "track",
+            "uri": "spotify:track:4nmIcNQjEGez4zeJfm5I1F",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+                    "id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "name": "Coldplay",
+                    "type": "artist",
+                    "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 369598,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5kHwM1BRcIukEIy8x0emV8"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5kHwM1BRcIukEIy8x0emV8",
+            "id": "5kHwM1BRcIukEIy8x0emV8",
+            "name": "\ud83c\udf08",
+            "track_number": 6,
+            "type": "track",
+            "uri": "spotify:track:5kHwM1BRcIukEIy8x0emV8",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+                    "id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "name": "Coldplay",
+                    "type": "artist",
+                    "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 183371,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/2uaihUX7HbKyXBpFxOUT2a"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2uaihUX7HbKyXBpFxOUT2a",
+            "id": "2uaihUX7HbKyXBpFxOUT2a",
+            "name": "iAAM",
+            "track_number": 7,
+            "type": "track",
+            "uri": "spotify:track:2uaihUX7HbKyXBpFxOUT2a",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+                    "id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "name": "Coldplay",
+                    "type": "artist",
+                    "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 253028,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3Q3dNGUbRNp0Cn9ayZQJl0"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3Q3dNGUbRNp0Cn9ayZQJl0",
+            "id": "3Q3dNGUbRNp0Cn9ayZQJl0",
+            "name": "AETERNA",
+            "track_number": 8,
+            "type": "track",
+            "uri": "spotify:track:3Q3dNGUbRNp0Cn9ayZQJl0",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+                    "id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "name": "Coldplay",
+                    "type": "artist",
+                    "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 222647,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1mAMlMxsUBQ4qqQ8FVdjt8"
+            },
+            "href": "https://api.spotify.com/v1/tracks/1mAMlMxsUBQ4qqQ8FVdjt8",
+            "id": "1mAMlMxsUBQ4qqQ8FVdjt8",
+            "name": "ALL MY LOVE",
+            "track_number": 9,
+            "type": "track",
+            "uri": "spotify:track:1mAMlMxsUBQ4qqQ8FVdjt8",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+                    "id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "name": "Coldplay",
+                    "type": "artist",
+                    "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 407656,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/66KIWk0JIZDOAfsYDCosVP"
+            },
+            "href": "https://api.spotify.com/v1/tracks/66KIWk0JIZDOAfsYDCosVP",
+            "id": "66KIWk0JIZDOAfsYDCosVP",
+            "name": "ONE WORLD",
+            "track_number": 10,
+            "type": "track",
+            "uri": "spotify:track:66KIWk0JIZDOAfsYDCosVP",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+                    "id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "name": "Coldplay",
+                    "type": "artist",
+                    "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+                }
+            ],
+            "disc_number": 2,
+            "duration_ms": 166183,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5T7FLSnK2cQLfsP1hODPiC"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5T7FLSnK2cQLfsP1hODPiC",
+            "id": "5T7FLSnK2cQLfsP1hODPiC",
+            "name": "Moon Music - Elodie",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:5T7FLSnK2cQLfsP1hODPiC",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+                    "id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "name": "Coldplay",
+                    "type": "artist",
+                    "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+                }
+            ],
+            "disc_number": 2,
+            "duration_ms": 276080,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0jBZ05RoZHQfkxInRz7Byr"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0jBZ05RoZHQfkxInRz7Byr",
+            "id": "0jBZ05RoZHQfkxInRz7Byr",
+            "name": "feelslikeimfallinginlive",
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:0jBZ05RoZHQfkxInRz7Byr",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+                    "id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "name": "Coldplay",
+                    "type": "artist",
+                    "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+                }
+            ],
+            "disc_number": 2,
+            "duration_ms": 175466,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0cZEkGxb0V9MbpzHzpKp9F"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0cZEkGxb0V9MbpzHzpKp9F",
+            "id": "0cZEkGxb0V9MbpzHzpKp9F",
+            "name": "The Karate Kid",
+            "track_number": 3,
+            "type": "track",
+            "uri": "spotify:track:0cZEkGxb0V9MbpzHzpKp9F",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+                    "id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "name": "Coldplay",
+                    "type": "artist",
+                    "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6eXZu6O7nAUA5z6vLV8NKI",
+                    "id": "6eXZu6O7nAUA5z6vLV8NKI",
+                    "name": "Little Simz",
+                    "type": "artist",
+                    "uri": "spotify:artist:6eXZu6O7nAUA5z6vLV8NKI"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3wcj11K77LjEY1PkEazffa",
+                    "id": "3wcj11K77LjEY1PkEazffa",
+                    "name": "Burna Boy",
+                    "type": "artist",
+                    "uri": "spotify:artist:3wcj11K77LjEY1PkEazffa"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0jIWKlfmD4Ew7HeVVrq03g",
+                    "id": "0jIWKlfmD4Ew7HeVVrq03g",
+                    "name": "Elyanna",
+                    "type": "artist",
+                    "uri": "spotify:artist:0jIWKlfmD4Ew7HeVVrq03g"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7vXDAI8JwjW531ouMGbfcp",
+                    "id": "7vXDAI8JwjW531ouMGbfcp",
+                    "name": "TINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7vXDAI8JwjW531ouMGbfcp"
+                }
+            ],
+            "disc_number": 2,
+            "duration_ms": 233320,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0dlJ9E3QZZ78a9cUns9VCO"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0dlJ9E3QZZ78a9cUns9VCO",
+            "id": "0dlJ9E3QZZ78a9cUns9VCO",
+            "name": "We Pray - Be Our Guest",
+            "track_number": 4,
+            "type": "track",
+            "uri": "spotify:track:0dlJ9E3QZZ78a9cUns9VCO",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+                    "id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "name": "Coldplay",
+                    "type": "artist",
+                    "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+                }
+            ],
+            "disc_number": 2,
+            "duration_ms": 261905,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6xXocHy6Oux7H3MSDJd0mn"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6xXocHy6Oux7H3MSDJd0mn",
+            "id": "6xXocHy6Oux7H3MSDJd0mn",
+            "name": "Angelsong",
+            "track_number": 5,
+            "type": "track",
+            "uri": "spotify:track:6xXocHy6Oux7H3MSDJd0mn",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+                    "id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "name": "Coldplay",
+                    "type": "artist",
+                    "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+                }
+            ],
+            "disc_number": 2,
+            "duration_ms": 173250,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4fsBnPUzyKk8FxedqAlyx7"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4fsBnPUzyKk8FxedqAlyx7",
+            "id": "4fsBnPUzyKk8FxedqAlyx7",
+            "name": "Jupiter - Single Version",
+            "track_number": 6,
+            "type": "track",
+            "uri": "spotify:track:4fsBnPUzyKk8FxedqAlyx7",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+                    "id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "name": "Coldplay",
+                    "type": "artist",
+                    "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+                }
+            ],
+            "disc_number": 2,
+            "duration_ms": 234600,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5NPe4fAhaMwcho571EJXDi"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5NPe4fAhaMwcho571EJXDi",
+            "id": "5NPe4fAhaMwcho571EJXDi",
+            "name": "Man in The Moon",
+            "track_number": 7,
+            "type": "track",
+            "uri": "spotify:track:5NPe4fAhaMwcho571EJXDi",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+                    "id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "name": "Coldplay",
+                    "type": "artist",
+                    "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+                }
+            ],
+            "disc_number": 2,
+            "duration_ms": 186810,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/2NYCEJK25YURZTQSA0msEZ"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2NYCEJK25YURZTQSA0msEZ",
+            "id": "2NYCEJK25YURZTQSA0msEZ",
+            "name": "i Am A Mountain",
+            "track_number": 8,
+            "type": "track",
+            "uri": "spotify:track:2NYCEJK25YURZTQSA0msEZ",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+                    "id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "name": "Coldplay",
+                    "type": "artist",
+                    "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+                }
+            ],
+            "disc_number": 2,
+            "duration_ms": 246321,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3aaXb0yHa5voqqAXALjUJm"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3aaXb0yHa5voqqAXALjUJm",
+            "id": "3aaXb0yHa5voqqAXALjUJm",
+            "name": "All My Love - Live in Dublin",
+            "track_number": 9,
+            "type": "track",
+            "uri": "spotify:track:3aaXb0yHa5voqqAXALjUJm",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+                    "id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "name": "Coldplay",
+                    "type": "artist",
+                    "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7yxi31szvlbwvKq9dYOmFI",
+                    "id": "7yxi31szvlbwvKq9dYOmFI",
+                    "name": "Jon Hopkins",
+                    "type": "artist",
+                    "uri": "spotify:artist:7yxi31szvlbwvKq9dYOmFI"
+                }
+            ],
+            "disc_number": 2,
+            "duration_ms": 153229,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/48pTPjEyxxD4aHg9uBTp6G"
+            },
+            "href": "https://api.spotify.com/v1/tracks/48pTPjEyxxD4aHg9uBTp6G",
+            "id": "48pTPjEyxxD4aHg9uBTp6G",
+            "name": "\ud83d\udc4b",
+            "track_number": 10,
+            "type": "track",
+            "uri": "spotify:track:48pTPjEyxxD4aHg9uBTp6G",
+            "is_local": false
+        }
+    ],
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 20
+}

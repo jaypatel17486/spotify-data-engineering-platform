@@ -1,5 +1,4 @@
 import pandas as pd
-
 from sqlalchemy import create_engine
 
 from config.database import DB_CONFIG
@@ -16,19 +15,29 @@ def main():
 
     engine = create_engine(DATABASE_URL)
 
-    df = pd.read_csv(
-        "data/processed/albums.csv"
-    )
+    tables = {
+        "artists": "data/processed/artists.csv",
+        "albums": "data/processed/albums.csv",
+        "tracks": "data/processed/tracks.csv",
+    }
 
-    df.to_sql(
-        name="albums",
-        con=engine,
-        if_exists="replace",
-        index=False,
-    )
+    for table_name, csv_path in tables.items():
 
-    print("=" * 60)
-    print("Albums loaded successfully.")
+        print(f"\nLoading {table_name}...")
+
+        df = pd.read_csv(csv_path)
+
+        df.to_sql(
+            name=table_name,
+            con=engine,
+            if_exists="replace",
+            index=False,
+        )
+
+        print(f"✓ {table_name} loaded ({len(df)} rows)")
+
+    print("\n" + "=" * 60)
+    print("All tables loaded successfully.")
     print("=" * 60)
 
 

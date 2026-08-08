@@ -1,0 +1,506 @@
+{
+    "href": "https://api.spotify.com/v1/albums/64QhljQEwTfoEt9z6jsyxl/tracks?offset=0&limit=20",
+    "items": [
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                    "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                    "name": "Ed Sheeran",
+                    "type": "artist",
+                    "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 240618,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5CdeOC9tjjv8ufFt8aG88l"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5CdeOC9tjjv8ufFt8aG88l",
+            "id": "5CdeOC9tjjv8ufFt8aG88l",
+            "name": "Opening",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:5CdeOC9tjjv8ufFt8aG88l",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                    "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                    "name": "Ed Sheeran",
+                    "type": "artist",
+                    "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 179082,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/61QMNnYdZlSqJyjrhF1FSz"
+            },
+            "href": "https://api.spotify.com/v1/tracks/61QMNnYdZlSqJyjrhF1FSz",
+            "id": "61QMNnYdZlSqJyjrhF1FSz",
+            "name": "Sapphire",
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:61QMNnYdZlSqJyjrhF1FSz",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                    "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                    "name": "Ed Sheeran",
+                    "type": "artist",
+                    "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 162029,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/542th0l13cjyy4qeMx8S0l"
+            },
+            "href": "https://api.spotify.com/v1/tracks/542th0l13cjyy4qeMx8S0l",
+            "id": "542th0l13cjyy4qeMx8S0l",
+            "name": "Azizam",
+            "track_number": 3,
+            "type": "track",
+            "uri": "spotify:track:542th0l13cjyy4qeMx8S0l",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                    "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                    "name": "Ed Sheeran",
+                    "type": "artist",
+                    "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 221831,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/2t1KKJvWUi5HkkBz2FP4Gt"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2t1KKJvWUi5HkkBz2FP4Gt",
+            "id": "2t1KKJvWUi5HkkBz2FP4Gt",
+            "name": "Old Phone",
+            "track_number": 4,
+            "type": "track",
+            "uri": "spotify:track:2t1KKJvWUi5HkkBz2FP4Gt",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                    "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                    "name": "Ed Sheeran",
+                    "type": "artist",
+                    "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 168979,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7fQKHhgzmLbh8kbnja408p"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7fQKHhgzmLbh8kbnja408p",
+            "id": "7fQKHhgzmLbh8kbnja408p",
+            "name": "Symmetry",
+            "track_number": 5,
+            "type": "track",
+            "uri": "spotify:track:7fQKHhgzmLbh8kbnja408p",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                    "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                    "name": "Ed Sheeran",
+                    "type": "artist",
+                    "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 215511,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4rWeuQF9HD3UP6XEqLDVew",
+            "id": "4rWeuQF9HD3UP6XEqLDVew",
+            "name": "Camera",
+            "track_number": 6,
+            "type": "track",
+            "uri": "spotify:track:4rWeuQF9HD3UP6XEqLDVew",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                    "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                    "name": "Ed Sheeran",
+                    "type": "artist",
+                    "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 222782,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/03qAI5HA2LS4Bm8SGpTp1X"
+            },
+            "href": "https://api.spotify.com/v1/tracks/03qAI5HA2LS4Bm8SGpTp1X",
+            "id": "03qAI5HA2LS4Bm8SGpTp1X",
+            "name": "In Other Words",
+            "track_number": 7,
+            "type": "track",
+            "uri": "spotify:track:03qAI5HA2LS4Bm8SGpTp1X",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                    "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                    "name": "Ed Sheeran",
+                    "type": "artist",
+                    "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 192043,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0Uf1p48dC2HxulFtTeHhrt"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0Uf1p48dC2HxulFtTeHhrt",
+            "id": "0Uf1p48dC2HxulFtTeHhrt",
+            "name": "A Little More",
+            "track_number": 8,
+            "type": "track",
+            "uri": "spotify:track:0Uf1p48dC2HxulFtTeHhrt",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                    "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                    "name": "Ed Sheeran",
+                    "type": "artist",
+                    "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 201281,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/67SRkZC5i7J4IgnKuCUs7w"
+            },
+            "href": "https://api.spotify.com/v1/tracks/67SRkZC5i7J4IgnKuCUs7w",
+            "id": "67SRkZC5i7J4IgnKuCUs7w",
+            "name": "Slowly",
+            "track_number": 9,
+            "type": "track",
+            "uri": "spotify:track:67SRkZC5i7J4IgnKuCUs7w",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                    "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                    "name": "Ed Sheeran",
+                    "type": "artist",
+                    "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 217681,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7ne6grXcOlB7o5TfYr3Mfa"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7ne6grXcOlB7o5TfYr3Mfa",
+            "id": "7ne6grXcOlB7o5TfYr3Mfa",
+            "name": "Don\u2019t Look Down",
+            "track_number": 10,
+            "type": "track",
+            "uri": "spotify:track:7ne6grXcOlB7o5TfYr3Mfa",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                    "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                    "name": "Ed Sheeran",
+                    "type": "artist",
+                    "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 212792,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/59DtKdVcqOpvxoBGTXDz4j"
+            },
+            "href": "https://api.spotify.com/v1/tracks/59DtKdVcqOpvxoBGTXDz4j",
+            "id": "59DtKdVcqOpvxoBGTXDz4j",
+            "name": "The Vow",
+            "track_number": 11,
+            "type": "track",
+            "uri": "spotify:track:59DtKdVcqOpvxoBGTXDz4j",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                    "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                    "name": "Ed Sheeran",
+                    "type": "artist",
+                    "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 207256,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3AMwI1GI8W7PiIcXyKYkQy"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3AMwI1GI8W7PiIcXyKYkQy",
+            "id": "3AMwI1GI8W7PiIcXyKYkQy",
+            "name": "For Always",
+            "track_number": 12,
+            "type": "track",
+            "uri": "spotify:track:3AMwI1GI8W7PiIcXyKYkQy",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                    "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                    "name": "Ed Sheeran",
+                    "type": "artist",
+                    "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 243565,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/2l9sCTpZUh3OTZSJtvVCeb"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2l9sCTpZUh3OTZSJtvVCeb",
+            "id": "2l9sCTpZUh3OTZSJtvVCeb",
+            "name": "Heaven",
+            "track_number": 13,
+            "type": "track",
+            "uri": "spotify:track:2l9sCTpZUh3OTZSJtvVCeb",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                    "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                    "name": "Ed Sheeran",
+                    "type": "artist",
+                    "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 174628,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0Hn2OLfgY8SQMkUGuaFTlL"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0Hn2OLfgY8SQMkUGuaFTlL",
+            "id": "0Hn2OLfgY8SQMkUGuaFTlL",
+            "name": "Problems",
+            "track_number": 14,
+            "type": "track",
+            "uri": "spotify:track:0Hn2OLfgY8SQMkUGuaFTlL",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                    "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                    "name": "Ed Sheeran",
+                    "type": "artist",
+                    "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 192259,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7zadtVYmhKfnPW9LxPxvbt"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7zadtVYmhKfnPW9LxPxvbt",
+            "id": "7zadtVYmhKfnPW9LxPxvbt",
+            "name": "War Game",
+            "track_number": 15,
+            "type": "track",
+            "uri": "spotify:track:7zadtVYmhKfnPW9LxPxvbt",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                    "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                    "name": "Ed Sheeran",
+                    "type": "artist",
+                    "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 228514,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3ofhhx5VVZqgHlGeW9cKak"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3ofhhx5VVZqgHlGeW9cKak",
+            "id": "3ofhhx5VVZqgHlGeW9cKak",
+            "name": "Regrets",
+            "track_number": 16,
+            "type": "track",
+            "uri": "spotify:track:3ofhhx5VVZqgHlGeW9cKak",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                    "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                    "name": "Ed Sheeran",
+                    "type": "artist",
+                    "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 237568,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/2IdYSlDtu8FpGde4fwekuw"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2IdYSlDtu8FpGde4fwekuw",
+            "id": "2IdYSlDtu8FpGde4fwekuw",
+            "name": "Freedom",
+            "track_number": 17,
+            "type": "track",
+            "uri": "spotify:track:2IdYSlDtu8FpGde4fwekuw",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                    "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                    "name": "Ed Sheeran",
+                    "type": "artist",
+                    "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+                    "id": "4YRxDV8wJFPHPTeXepOstw",
+                    "name": "Arijit Singh",
+                    "type": "artist",
+                    "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 180648,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/2f9mI9NbGhBpHWIAVcgNOs"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2f9mI9NbGhBpHWIAVcgNOs",
+            "id": "2f9mI9NbGhBpHWIAVcgNOs",
+            "name": "Sapphire (feat. Arijit Singh) - Remix",
+            "track_number": 18,
+            "type": "track",
+            "uri": "spotify:track:2f9mI9NbGhBpHWIAVcgNOs",
+            "is_local": false
+        }
+    ],
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 18
+}

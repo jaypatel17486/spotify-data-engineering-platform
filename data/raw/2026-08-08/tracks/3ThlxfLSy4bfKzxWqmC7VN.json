@@ -1,0 +1,47 @@
+{
+    "href": "https://api.spotify.com/v1/albums/3ThlxfLSy4bfKzxWqmC7VN/tracks?offset=0&limit=20",
+    "items": [
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                    "id": "25uiPmTg16RbhZWAqwLBy5",
+                    "name": "Charli xcx",
+                    "type": "artist",
+                    "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+                    "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+                    "name": "Billie Eilish",
+                    "type": "artist",
+                    "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 143330,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3WOhcATHxK2SLNeP5W3v1v",
+            "id": "3WOhcATHxK2SLNeP5W3v1v",
+            "name": "Guess featuring billie eilish",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:3WOhcATHxK2SLNeP5W3v1v",
+            "is_local": false
+        }
+    ],
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1
+}

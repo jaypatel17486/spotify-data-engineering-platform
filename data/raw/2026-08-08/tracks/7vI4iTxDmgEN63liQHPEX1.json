@@ -1,0 +1,253 @@
+{
+    "href": "https://api.spotify.com/v1/albums/7vI4iTxDmgEN63liQHPEX1/tracks?offset=0&limit=20",
+    "items": [
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+                    "id": "0du5cEVh5yTK9QJze8zA0C",
+                    "name": "Bruno Mars",
+                    "type": "artist",
+                    "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 204068,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5y2ijHECwFYWqcAHKTZgzD",
+            "id": "5y2ijHECwFYWqcAHKTZgzD",
+            "name": "Risk It All",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:5y2ijHECwFYWqcAHKTZgzD",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+                    "id": "0du5cEVh5yTK9QJze8zA0C",
+                    "name": "Bruno Mars",
+                    "type": "artist",
+                    "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 236559,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6QletrrmpkUpeJkipX9pgf",
+            "id": "6QletrrmpkUpeJkipX9pgf",
+            "name": "Cha Cha Cha",
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:6QletrrmpkUpeJkipX9pgf",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+                    "id": "0du5cEVh5yTK9QJze8zA0C",
+                    "name": "Bruno Mars",
+                    "type": "artist",
+                    "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 212973,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6f68Ac5tt5BQOpwr0BV9oN",
+            "id": "6f68Ac5tt5BQOpwr0BV9oN",
+            "name": "I Just Might",
+            "track_number": 3,
+            "type": "track",
+            "uri": "spotify:track:6f68Ac5tt5BQOpwr0BV9oN",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+                    "id": "0du5cEVh5yTK9QJze8zA0C",
+                    "name": "Bruno Mars",
+                    "type": "artist",
+                    "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 211063,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1sVBT215CDmVJvfy1E2OCU"
+            },
+            "href": "https://api.spotify.com/v1/tracks/1sVBT215CDmVJvfy1E2OCU",
+            "id": "1sVBT215CDmVJvfy1E2OCU",
+            "name": "God Was Showing Off",
+            "track_number": 4,
+            "type": "track",
+            "uri": "spotify:track:1sVBT215CDmVJvfy1E2OCU",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+                    "id": "0du5cEVh5yTK9QJze8zA0C",
+                    "name": "Bruno Mars",
+                    "type": "artist",
+                    "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 254360,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3Ac4AjYkqsvop2ydbSAhTX"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3Ac4AjYkqsvop2ydbSAhTX",
+            "id": "3Ac4AjYkqsvop2ydbSAhTX",
+            "name": "Why You Wanna Fight?",
+            "track_number": 5,
+            "type": "track",
+            "uri": "spotify:track:3Ac4AjYkqsvop2ydbSAhTX",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+                    "id": "0du5cEVh5yTK9QJze8zA0C",
+                    "name": "Bruno Mars",
+                    "type": "artist",
+                    "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 174676,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4i4BVY2JiH4mDSLIBdNGKD",
+            "id": "4i4BVY2JiH4mDSLIBdNGKD",
+            "name": "On My Soul",
+            "track_number": 6,
+            "type": "track",
+            "uri": "spotify:track:4i4BVY2JiH4mDSLIBdNGKD",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+                    "id": "0du5cEVh5yTK9QJze8zA0C",
+                    "name": "Bruno Mars",
+                    "type": "artist",
+                    "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 166458,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0PV4VQCmE6Ujssr1bnswdF"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0PV4VQCmE6Ujssr1bnswdF",
+            "id": "0PV4VQCmE6Ujssr1bnswdF",
+            "name": "Something Serious",
+            "track_number": 7,
+            "type": "track",
+            "uri": "spotify:track:0PV4VQCmE6Ujssr1bnswdF",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+                    "id": "0du5cEVh5yTK9QJze8zA0C",
+                    "name": "Bruno Mars",
+                    "type": "artist",
+                    "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 214748,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0Sq6JK9kyC4MQa3KrJj5CB"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0Sq6JK9kyC4MQa3KrJj5CB",
+            "id": "0Sq6JK9kyC4MQa3KrJj5CB",
+            "name": "Nothing Left",
+            "track_number": 8,
+            "type": "track",
+            "uri": "spotify:track:0Sq6JK9kyC4MQa3KrJj5CB",
+            "is_local": false
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+                    "id": "0du5cEVh5yTK9QJze8zA0C",
+                    "name": "Bruno Mars",
+                    "type": "artist",
+                    "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 219287,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1myZ6GQewhAzMH2dKtKSWK"
+            },
+            "href": "https://api.spotify.com/v1/tracks/1myZ6GQewhAzMH2dKtKSWK",
+            "id": "1myZ6GQewhAzMH2dKtKSWK",
+            "name": "Dance With Me",
+            "track_number": 9,
+            "type": "track",
+            "uri": "spotify:track:1myZ6GQewhAzMH2dKtKSWK",
+            "is_local": false
+        }
+    ],
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 9
+}

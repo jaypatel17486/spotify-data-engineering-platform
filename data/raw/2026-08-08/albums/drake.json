@@ -1,0 +1,235 @@
+{
+    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4/albums?offset=0&limit=5&include_groups=album,single,compilation,appears_on",
+    "limit": 5,
+    "next": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4/albums?offset=5&limit=5&include_groups=album,single,compilation,appears_on",
+    "offset": 0,
+    "previous": null,
+    "total": 987,
+    "items": [
+        {
+            "album_type": "album",
+            "total_tracks": 18,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+            },
+            "href": "https://api.spotify.com/v1/albums/0OAv7DCME2AV4q1KPO95HY",
+            "id": "0OAv7DCME2AV4q1KPO95HY",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02fe9d3ab9adb1d3b59835b81c",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851fe9d3ab9adb1d3b59835b81c",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "ICEMAN",
+            "release_date": "2026-05-15",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:0OAv7DCME2AV4q1KPO95HY",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ]
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 11,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno"
+            },
+            "href": "https://api.spotify.com/v1/albums/0P6B5R3yRSkhkmequL5Yno",
+            "id": "0P6B5R3yRSkhkmequL5Yno",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b92879e45761d711016476df",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b92879e45761d711016476df",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851b92879e45761d711016476df",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "HABIBTI",
+            "release_date": "2026-05-15",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:0P6B5R3yRSkhkmequL5Yno",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ]
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 14,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk"
+            },
+            "href": "https://api.spotify.com/v1/albums/71yBvOeRZ9os9LYFEy9eOk",
+            "id": "71yBvOeRZ9os9LYFEy9eOk",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273539bb112d7c970545dd971e3",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02539bb112d7c970545dd971e3",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851539bb112d7c970545dd971e3",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "MAID OF HONOUR",
+            "release_date": "2026-05-15",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:71yBvOeRZ9os9LYFEy9eOk",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ]
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 21,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+            },
+            "href": "https://api.spotify.com/v1/albums/6Rl6YoCarF2GHPSQmmFjuR",
+            "id": "6Rl6YoCarF2GHPSQmmFjuR",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b5a28a256eae6dc0424fef59",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851b5a28a256eae6dc0424fef59",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "$ome $exy $ongs 4 U",
+            "release_date": "2025-02-14",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:6Rl6YoCarF2GHPSQmmFjuR",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2HPaUgqeutzr3jx5a9WyDV",
+                    "id": "2HPaUgqeutzr3jx5a9WyDV",
+                    "name": "PARTYNEXTDOOR",
+                    "type": "artist",
+                    "uri": "spotify:artist:2HPaUgqeutzr3jx5a9WyDV"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ]
+        },
+        {
+            "album_type": "album",
+            "total_tracks": 29,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
+            },
+            "href": "https://api.spotify.com/v1/albums/4Q7cRXio6mF2ImVUCcezPO",
+            "id": "4Q7cRXio6mF2ImVUCcezPO",
+            "images": [
+                {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e286ee36b4015afa8832356a",
+                    "height": 640,
+                    "width": 640
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e286ee36b4015afa8832356a",
+                    "height": 300,
+                    "width": 300
+                },
+                {
+                    "url": "https://i.scdn.co/image/ab67616d00004851e286ee36b4015afa8832356a",
+                    "height": 64,
+                    "width": 64
+                }
+            ],
+            "name": "For All The Dogs Scary Hours Edition",
+            "release_date": "2023-11-17",
+            "release_date_precision": "day",
+            "type": "album",
+            "uri": "spotify:album:4Q7cRXio6mF2ImVUCcezPO",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                    "id": "3TVXtAsR1Inumwj472S9r4",
+                    "name": "Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                }
+            ]
+        }
+    ]
+}
